@@ -9,7 +9,7 @@
     <li>Verifikasi Data Siswa</li>
     <li>Buat Pengumuman dan Hasil Seleksi</li>
     <li>Membuka dan Menutup Pendaftaran</li>
-  <ul>
+  </ul>
 <p>dibuat dengan menggunakan : </p>
   <ul>
     <li>PHP Native</li>
@@ -18,5 +18,5 @@
     <li>CSS</li>
     <li>Javascript</li>
     <li>MySQL</li>    
-  <ul>
+  </ul>
     
